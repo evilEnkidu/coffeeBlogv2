@@ -2,7 +2,6 @@ html{
     font-family: Montserrat, Helvetica, sans-serif;
 }
 .bodyalign{
-    
     padding-left: 20%;
     padding-right: 20%;
 }
@@ -12,9 +11,7 @@ html{
     font-weight: 400;
     font-style: normal;
   }
-p{
-    
-}
+
 a{
     text-decoration: none;
     color: black;
@@ -28,11 +25,9 @@ a{
     margin-right: auto;
 }
 img{
-    
     display: block;
     margin-left: auto;
-    margin-right: auto;
-    
+    margin-right: auto;  
 }
 
 header{ 
@@ -46,21 +41,18 @@ header{
 .logo{
     display: block;
     padding: 0 85% 0 0;
-    
 }
 .readMore{
     color: white;
     background-color: black;
     padding: 15px;
     display: inline-block;
-   
 }
 .brownButton{
     color: white;
     background-color: rgb(143, 84, 5);
     padding: 15px;
     display: inline-block;
-   
 }
 footer{
     margin-top: 80px;
@@ -68,7 +60,6 @@ footer{
     color: white;
     padding: 10px 0;
     text-align: center;
-    
 }
 .footerCoffee{
     margin-bottom: 20px;
@@ -81,14 +72,12 @@ footer{
     align-items: center;
 }
 .horizontal-list{
-    
     list-style-type: none; /* No bullet points*/
     padding: 0%; /* remove default padding */
     margin: 0; /* remove default margin */
     display: flex; /* display items in a row */
 }
 .horizontal-list li{
-    
     color: white;
     margin-right: 20px; /* space between items */
 }
